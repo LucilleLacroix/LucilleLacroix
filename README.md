@@ -9,8 +9,11 @@ I’ve worked with Ruby on Rails, JavaScript, HTML, and CSS, and I’m currently
 🛠️ Tech Stack
 
 Frontend: HTML, CSS, JavaScript, React (learning)
+
 Backend: Ruby on Rails
+
 Database: PostgreSQL, SQL
+
 Tools: Git, GitHub, Figma, VS Code
 
 🌱 What I’m Working On
