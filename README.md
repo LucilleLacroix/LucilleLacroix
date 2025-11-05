@@ -1,4 +1,4 @@
-👋 Hi, I’m [Your Name]
+👋 Hi, I’m Lucile,
 
 I’m a web developer with a background in luxury hospitality and a recent graduate of Le Wagon’s web development bootcamp.
 My experience in the service industry taught me how to understand people’s needs, solve problems quickly, and collaborate effectively to deliver great experiences.
