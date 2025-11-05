@@ -30,7 +30,4 @@ Collaborating with other developers to grow through real-world experience:
   
   -Questify (Daily Questing and Questify repositories) a mobile-first web app built in two weeks for our final project at Le Wagon( daily questing repositories). We’re currently redesigning and improving it(questifs).
 
-💬 Let’s Connect
 
-💼 www.linkedin.com/in/lucillelacroix
-✉️ lucille.lacroix74520@gmail.com
