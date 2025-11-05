@@ -3,7 +3,7 @@
 I’m a web developer with a background in luxury hospitality and a recent graduate of Le Wagon’s web development bootcamp.
 My experience in the service industry taught me how to understand people’s needs, solve problems quickly, and collaborate effectively to deliver great experiences.
 
-Now, I bring that same mindset to tech — building user-focused web applications that balance elegance, clarity, and real-world functionality.
+Now, I bring that same mindset to tech. Building user-focused web applications that balance elegance, clarity, and real-world functionality.
 I’ve worked with Ruby on Rails, JavaScript, HTML, and CSS, and I’m currently expanding my skills in React and modern frontend technologies.
 
 🛠️ Tech Stack
