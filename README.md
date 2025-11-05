@@ -18,10 +18,13 @@ Tools: Git, GitHub, Figma, VS Code
 Strengthening my React and frontend development skills
 
 Building new personal projects to keep learning :
+
  -économint: web app to keep track of your spending.
 
 Collaborating with other developers to grow through real-world experience:
+
   -Wine Experience – A one-week project integrating an LLM to help users choose wines based on their preferences.
+  
   -Questify (Daily Questing and Questify repositories) a mobile-first web app built in two weeks for our final project at Le Wagon( daily questing repositories). We’re currently redesigning and improving it(questifs).
 
 💬 Let’s Connect
